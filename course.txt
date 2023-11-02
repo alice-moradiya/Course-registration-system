@@ -1,0 +1,11 @@
+104,PSY,2:00 to 2:50 MWF,3,erin scully,A104,-
+101,IT,3:00 to 3:50 MWF,3,ali mamaghani,A105,-
+102,ECO,4:00 to 4:50 MWF,3,oliver frank,A106,-
+110,MAT,2:00 to 2:50 TTH,3,Ignor vorankov,T103,-
+200,MAT,3:00 to 3:50 MWF,3,ha Tran,A208,110MAT
+111,CMPT,5:00 to 6:50 MWF,3,matthew parsons,Ha2019,-
+121,CMPT,5:00 to 6:50 MWF,3,nasim Hazari,Ha2019,111CMPT
+206,PSY,2:00 to 2:50 MWF,3,erin scully,A104,104PSY
+110,IT,3:00 to 3:50 MWF,3,ali mamaghani,A105,101IT
+201,ECO,4:00 to 4:50 MWF,3,oliver frank,A106,102ECO
+
